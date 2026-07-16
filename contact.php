@@ -2,24 +2,20 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=
-    , initial-scale=1.0">
-    <title>Contact</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact | Informatika 2026</title>
 </head>
 <body>
-    <h1>Contact</h1>
-    <hr>
-    <table border="1" cellspacing="0" cellpadding="10">
+    <h1>INFORMATIKA 2026</h1>
+    <table border="1" cellspacing="0" cellpadding="10px">
         <tr>
-            <td><a href="index.html">Home</a><br></td>
-            <td><a href="profil.html">Profil</a><br></td>
-            <td><a href="contact.html">Contact</a><br></td>
-            <td><a href="mahasiswa.html">Data</a><br></td>
+            <td><a href="index.php">Home</a></td>
+            <td><a href="profile.php">Profile</a></td>
+            <td><a href="contact.php">Contact</a></td>
+            <td><a href="mahasiswa.php">Data Mahasiswa</a></td>
         </tr>
     </table>
-    <a href="http://wa.me/+6288980200147">WhatsApp</a><br>
-    <a href="https://www.instagram.com/febryydenh/">Instagram</a><br>
-    <a href="index.html">Home</a><br>
-    <a href="profil.html">Profil</a><br>
+    <br>
+    <hr/>
 </body>
 </html>

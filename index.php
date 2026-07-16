@@ -1,28 +1,45 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>WEB INFORMATIKA C 2026</title>
-  </head>
-  <body>
-    <h1>WEB INFORMATIKA FEBRI 2026</h1>
-    <hr />
-    <table border="1" cellspacing="0" cellpadding="10">
-      <tr>
-        <td><a href="index.html"> home </a></td>
-        <td> <a href="profile.html">profil</a></td>
-        <td><a href="contact.html">contact </a></td>
-        <td><a href="mahasiswa.html">data mahasiswa </a></td>
-      </tr>
-    </table>
-    <h3>BIODATA FEBRI</h3>
-    <p>
-      Nama : Febrian Dwi <br />
-      NIM : 13182420103 <br />
-      Deskripsi : saya orangnya comel, imut dan menggemaskan. <i></i>
-    </p>
-    <br />
-   
-  </body>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>
+            INFORMATIKA 2026
+        </title>
+    </head>
+    <body>
+        <h1>INFORMATIKA 2026</h1>
+        <table border="1" cellspacing="0" cellpadding="10px">
+            <tr>
+                <td><a href="index.php">Home</a></td>
+                <td><a href="profile.php">Profile</a></td>
+                <td><a href="contact.php">Contact</a></td>
+                <td><a href="mahasiswa.php">Data Mahasiswa</a></td>
+                <td><a href="register.php">Register</a></td>
+            </tr>
+        </table>
+        <br>
+        <hr/>
+        <h3>Sambutan Kaprodi</h3>
+        <img src="assets/images/kaprodi.jpg"  height="250px" />
+        <p>
+            <b>
+            Nama : Samhari <br>
+            Jabatan : Kaprodi <br>
+            </b>
+            <i><b>Deskripsi :</b> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Totam <u>nostrum</u> sit dolorum in, ipsam, quae temporibus vero pariatur praesentium voluptate, dicta quis. Consequatur aspernatur ullam dolor expedita velit tempore laudantium. H<sub>2</sub>O</i> 2<sup>2</sup>
+        </p>
+        <h2>Daftar Prestasi :</h2>
+        <ul>
+            <li>Juara Kaprodi Sedunia</li>
+            <ul>
+                <li>Kaprodi tercepat larinya</li>
+                <li>Jurnal terbanyak didunia</li>
+                <li>Paling Berpengaruh</li>
+            </ul>
+            <li>Juara Artikel Sedunia</li>
+            <li>Best Article</li>
+        </ul>
+
+
+    </body>
 </html>
